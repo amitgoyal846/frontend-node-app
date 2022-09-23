@@ -13,7 +13,7 @@ var server = app.listen(PORT, function() {
 
 //GET STATUS ENDPOINT
 app.get('/', function (req, res) {
-  res.send('Our Server is Up and Running!')
+  res.send('yahoo... Our Server is Up and Running!')
 })
 
 //GET Date ENDPOINT
